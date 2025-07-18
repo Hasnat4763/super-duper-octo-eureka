@@ -4,3 +4,11 @@ author: "Abul Hasnat"
 description: "84% super keyboard"
 created_at: "2025-07-18"
 ---
+
+
+# July 18th: Mostly finished the PCB!
+
+I went with a 87 key matrix for a TKL keyboard and 87 neopixels for RGB ( More RGB More FPS)
+Haven't selected the stabilizers yet after selecting the stabilizers I will start making the case for it
+
+**Total time spent: 6hr**
