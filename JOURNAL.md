@@ -11,4 +11,10 @@ created_at: "2025-07-18"
 I went with a 87 key matrix for a TKL keyboard and 87 neopixels for RGB ( More RGB More FPS)
 Haven't selected the stabilizers yet after selecting the stabilizers I will start making the case for it
 
+<img width="1304" height="819" alt="image" src="https://github.com/user-attachments/assets/1327f10c-af46-4c19-9ba6-cc6aec0766a3" />
+
+
+<img width="1303" height="547" alt="image" src="https://github.com/user-attachments/assets/43aec3c1-a21d-4c14-b618-5ab9dcc7ad0b" />
+
+
 **Total time spent: 6hr**
