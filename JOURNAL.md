@@ -18,3 +18,14 @@ Haven't selected the stabilizers yet after selecting the stabilizers I will star
 
 
 **Total time spent: 6hr**
+
+# July 19th: Found out my key placement wasn't correct!
+
+I have to fix my key placement
+Did the row wiring and added GND and 5v plane on Top and Bottom Cu layer
+Have to place the neopixels and wire the Columns
+
+
+<img width="1026" height="490" alt="image" src="https://github.com/user-attachments/assets/5d9d6a2b-151d-4557-982d-3a169e9f6177" />
+
+**Total time spent: 2hr**
