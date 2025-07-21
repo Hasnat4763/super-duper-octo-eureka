@@ -29,3 +29,12 @@ Have to place the neopixels and wire the Columns
 <img width="1026" height="490" alt="image" src="https://github.com/user-attachments/assets/5d9d6a2b-151d-4557-982d-3a169e9f6177" />
 
 **Total time spent: 2hr**
+
+# July 21th: Why is them so hard to route?
+
+Someone suggested to switch to back mounting neopixels so switched to those type of neopixel footprint
+Need a lot more time to place them in place
+
+<img width="1350" height="620" alt="image" src="https://github.com/user-attachments/assets/a8aa3f7a-c175-4167-9a04-74ea266a278f" />
+
+**Total time spent: 1.5hr**
