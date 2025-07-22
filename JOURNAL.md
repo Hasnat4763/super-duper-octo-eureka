@@ -38,3 +38,12 @@ Need a lot more time to place them in place
 <img width="1350" height="620" alt="image" src="https://github.com/user-attachments/assets/a8aa3f7a-c175-4167-9a04-74ea266a278f" />
 
 **Total time spent: 1.5hr**
+
+# July 22th: Still routing
+
+I routed most of it today
+Only a few thermal connections remains
+
+<img width="1174" height="523" alt="image" src="https://github.com/user-attachments/assets/78d6a90f-dadd-4cc2-bebf-30278a07a1d7" />
+
+**Total time spent: 4hr**
