@@ -47,3 +47,16 @@ Only a few thermal connections remains
 <img width="1174" height="523" alt="image" src="https://github.com/user-attachments/assets/78d6a90f-dadd-4cc2-bebf-30278a07a1d7" />
 
 **Total time spent: 4hr**
+
+# July 24th: Finished the pcb with correct heat joints and placing 6 screw hole
+
+<img width="791" height="509" alt="image" src="https://github.com/user-attachments/assets/92b0699f-7a00-4e2a-a976-9c8a66e3e2c2" />
+
+<img width="1153" height="551" alt="image" src="https://github.com/user-attachments/assets/dcdc77ab-8cbd-4fdc-b1d6-92961a6646f9" />
+
+**Total time spent: 5hr**
+
+
+
+
+
