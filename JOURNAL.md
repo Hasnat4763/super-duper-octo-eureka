@@ -50,13 +50,18 @@ Only a few thermal connections remains
 
 # July 24th: Finished the pcb with correct heat joints and placing 6 screw hole
 
+It had a lot of heat relief joints incorrectly had to fix them
+
 <img width="791" height="509" alt="image" src="https://github.com/user-attachments/assets/92b0699f-7a00-4e2a-a976-9c8a66e3e2c2" />
 
 <img width="1153" height="551" alt="image" src="https://github.com/user-attachments/assets/dcdc77ab-8cbd-4fdc-b1d6-92961a6646f9" />
 
 **Total time spent: 5hr**
 
+# July 29th: Working on the Case
 
+Started designing the Case today and finished 50% of it
 
+<img width="800" height="432" alt="image" src="https://github.com/user-attachments/assets/bfa0aa14-4162-4d26-862d-a16c2ae00957" />
 
-
+**Total time spent: 3hr**
