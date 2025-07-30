@@ -65,3 +65,12 @@ Started designing the Case today and finished 50% of it
 <img width="800" height="432" alt="image" src="https://github.com/user-attachments/assets/bfa0aa14-4162-4d26-862d-a16c2ae00957" />
 
 **Total time spent: 3hr**
+
+
+# July 30th: Finished the case
+
+I have finished the case today so now I am gonna start on working to submit it
+
+<img width="991" height="468" alt="image" src="https://github.com/user-attachments/assets/07edb85f-000e-4609-a813-ddb83142fbe4" />
+
+**Total time spent: 2hr**
