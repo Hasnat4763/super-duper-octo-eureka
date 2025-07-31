@@ -5,6 +5,7 @@ description: "84% super keyboard"
 created_at: "2025-07-18"
 ---
 
+# Total Time Spent: 26.5 hours
 
 # July 18th: Mostly finished the PCB!
 
@@ -74,3 +75,15 @@ I have finished the case today so now I am gonna start on working to submit it
 <img width="991" height="468" alt="image" src="https://github.com/user-attachments/assets/07edb85f-000e-4609-a813-ddb83142fbe4" />
 
 **Total time spent: 2hr**
+
+# July 31th: Wrapping up Everything
+
+I have made up a demo firmware for the keyboard, selected all the parts and designed the REPO to be able to submit today.
+
+Switched all the neopixels to be under the keys to the light shines through the keys
+<img width="1144" height="503" alt="image" src="https://github.com/user-attachments/assets/34495705-437d-4c78-9e23-f9b07546ddea" />
+<img width="813" height="883" alt="image" src="https://github.com/user-attachments/assets/fcaf0eda-6118-4a50-89e5-609ba14ffea8" />
+
+
+**Total time spent: 3hr**
+
