@@ -7,9 +7,11 @@ I made this because I always wwanted to design a custom keyboard and farm some a
 
 # PCB 
 
-<img width="1346" height="602" alt="image" src="https://github.com/user-attachments/assets/2d07974d-55b8-4469-a612-ebc7916a81e1" />
+<img width="1144" height="503" alt="image" src="https://github.com/user-attachments/assets/886a4376-2272-4c9a-bb0c-7a22b1756cf0" />
 
-<img width="1239" height="567" alt="image" src="https://github.com/user-attachments/assets/94c895ae-77ed-4035-a931-45f1d9ce5c83" />
+<img width="1166" height="545" alt="image" src="https://github.com/user-attachments/assets/6a810321-8d58-452e-a8a1-2400fd46c165" />
+
+<img width="990" height="424" alt="image" src="https://github.com/user-attachments/assets/4e629708-f6fd-47f5-ba97-6440cc767435" />
 
 
 # CAD
