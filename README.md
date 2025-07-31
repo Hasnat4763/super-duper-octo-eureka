@@ -25,3 +25,21 @@ I made this because I always wwanted to design a custom keyboard and farm some a
 <img width="1063" height="385" alt="image" src="https://github.com/user-attachments/assets/d8a2c790-9be9-4eca-bdc0-60c6de7422ae" />
 
 
+#Bill of Materials (BOM)
+
+| Item                                             | Quantity | Price          | Link |
+|--------------------------------------------------|----------|----------------|------|
+| Raspberry Pi Pico (THT)                          | 1        | $2.00          | [Link](https://www.aliexpress.com/item/1005003371056277.html?spm=a2g0o.productlist.0.0.5cf3D0ZbD0Zb9S&mp=1) |
+| 0603 0.1uF Capacitor                              | 100      | $0.89          | [Link](https://www.aliexpress.com/item/32966526545.html) |
+| SK6812-MINI-E (RGB LEDs)                         | 100      | $10.28         | [Link](https://www.aliexpress.com/item/1005005193716172.html) |
+| 1N4148 Diode                                     | 100      | $1.20          | [Link](https://www.aliexpress.com/item/4000142272546.html) |
+| SSD1306 OLED Display                             | 1        | $1.79          | [Link](https://www.aliexpress.com/item/1005006141235306.html) |
+| Cherry MX Switch                                 | 90       | $13.08         | [Link](https://www.aliexpress.com/item/1005006578935785.html) |
+| DUROCK V3 Stabilizer Set (PCB Mount)             | 1 Set    | $15.59         | [Link](https://www.aliexpress.com/item/1005001632672798.html) |
+| Womier 138-Key Retro Brown Gray PBT Keycap Set   | 1 Set    | $18.10         | [Link](https://www.aliexpress.com/item/1005007360831985.html) |
+| USB Type-C Cable                                 | 1        | $8.88          | [Link](https://www.aliexpress.com/item/1005007219379988.html) |
+| PCB (Custom Keyboard PCB)                        | 5        | $40.91         | [Link](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e6182bc7de8832e0afef53c0e265b3b55082fabc_image.png) |
+| Top Case                                         | 1        | Printing Legion |  |
+| Bottom Case                                      | 1        | Printing Legion |  |
+
+# Total: $112.72
