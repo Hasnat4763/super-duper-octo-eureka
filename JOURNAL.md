@@ -5,6 +5,7 @@ description: "84% super keyboard"
 created_at: "2025-07-18"
 ---
 
+# Total Time Spent: 26.5 hours
 
 # July 18th: Mostly finished the PCB!
 
