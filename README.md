@@ -16,13 +16,13 @@ I made this because I always wwanted to design a custom keyboard and farm some a
 
 # CAD
 
-<img width="851" height="424" alt="image" src="https://github.com/user-attachments/assets/a89a4c33-f9f0-41ec-b9b3-7951d6c2994d" />
+<img width="1095" height="397" alt="image" src="https://github.com/user-attachments/assets/5936d84d-d854-4305-bb96-c7402fecdfe6" />
 
-<img width="987" height="348" alt="image" src="https://github.com/user-attachments/assets/11d0b500-4422-4ac5-b9c0-f1ab4ebc30a5" />
+<img width="990" height="460" alt="image" src="https://github.com/user-attachments/assets/7e1e831d-0cb4-47c5-b184-861837ec658b" />
 
-<img width="964" height="349" alt="image" src="https://github.com/user-attachments/assets/137d4690-c3d2-4f40-a8b9-be64b9337905" />
+<img width="1127" height="392" alt="image" src="https://github.com/user-attachments/assets/0f7e4ffc-7f18-4de5-95bd-c6dcb06cfb32" />
 
-<img width="1063" height="385" alt="image" src="https://github.com/user-attachments/assets/d8a2c790-9be9-4eca-bdc0-60c6de7422ae" />
+<img width="1050" height="518" alt="image" src="https://github.com/user-attachments/assets/f09cd233-966e-417d-aa40-ad04d22b3268" />
 
 
 #Bill of Materials (BOM)
