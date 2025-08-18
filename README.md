@@ -4,6 +4,18 @@ Panzerboard is a tank themed 84% Keyboard using a RP Pico
 
 I made this because I always wwanted to design a custom keyboard and farm some aura
 
+# Schematic
+
+<img width="1232" height="857" alt="image" src="https://github.com/user-attachments/assets/1df7efec-ec14-4a98-8e0b-5ae4df9ac041" />
+
+<img width="388" height="641" alt="image" src="https://github.com/user-attachments/assets/abe1663c-5693-41e3-bbf0-12f1707cf7d3" />
+
+<img width="679" height="862" alt="image" src="https://github.com/user-attachments/assets/4b4c8fff-1282-4ffd-9576-92ea1c44b724" />
+
+<img width="478" height="690" alt="image" src="https://github.com/user-attachments/assets/50caaa72-53d1-4cfa-85e0-47795243e87b" />
+
+<img width="1277" height="281" alt="image" src="https://github.com/user-attachments/assets/93608407-76fe-4519-ae54-14f1de029286" />
+
 
 # PCB 
 
