@@ -37,9 +37,8 @@ I made this because I always wwanted to design a custom keyboard and farm some a
 | Cherry MX Switch                                 | 90       | $13.08         | [Link](https://www.aliexpress.com/item/1005006578935785.html) |
 | DUROCK V3 Stabilizer Set (PCB Mount)             | 1 Set    | $15.59         | [Link](https://www.aliexpress.com/item/1005001632672798.html) |
 | Womier 138-Key Retro Brown Gray PBT Keycap Set   | 1 Set    | $18.10         | [Link](https://www.aliexpress.com/item/1005007360831985.html) |
-| USB Type-C Cable                                 | 1        | $8.88          | [Link](https://www.aliexpress.com/item/1005007219379988.html) |
 | PCB (Custom Keyboard PCB)                        | 5        | $40.91         | [Link](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e6182bc7de8832e0afef53c0e265b3b55082fabc_image.png) |
 | Top Case                                         | 1        | Printing Legion |  |
 | Bottom Case                                      | 1        | Printing Legion |  |
 
-# Total: $112.72
+# Total: $104.72
