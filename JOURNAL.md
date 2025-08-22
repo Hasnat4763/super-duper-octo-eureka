@@ -87,3 +87,12 @@ Switched all the neopixels to be under the keys to the light shines through the 
 
 **Total time spent: 3hr**
 
+# August 2nd: Editing the case
+
+I have edited the case to include some arts
+
+<img width="948" height="645" alt="image" src="https://github.com/user-attachments/assets/a6f9097f-a642-464d-b22f-a0fd7bd2bdea" />
+<img width="909" height="386" alt="image" src="https://github.com/user-attachments/assets/f7fd8382-0180-4c67-a3b4-8370ab080658" />
+
+
+**Total time spent: 0.5hr**
