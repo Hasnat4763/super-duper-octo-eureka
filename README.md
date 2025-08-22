@@ -37,7 +37,7 @@ I made this because I always wwanted to design a custom keyboard and farm some a
 <img width="1050" height="518" alt="image" src="https://github.com/user-attachments/assets/f09cd233-966e-417d-aa40-ad04d22b3268" />
 
 
-#Bill of Materials (BOM)
+# Bill of Materials (BOM)
 
 | Item                                             | Quantity | Price          | Link |
 |--------------------------------------------------|----------|----------------|------|
